@@ -1,9 +1,13 @@
-# 🎭 Cat-Meme 作文生成器
+<p align="center">
+  <img src="https://haodehaode378.oss-cn-shanghai.aliyuncs.com/test/202604211910600.png" alt="cat-meme" width="600"/>
+</p>
 
-> 抖音 / B站 风格的猫meme作文文案，一键生成
-
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/haodehaode378/cat-meme-generator/pulls)
+<p align="center">
+  <h1>🎭 Cat-Meme 作文生成器</h1>
+  抖音 / B站 风格的猫meme作文文案，一键生成<br/>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"></a>
+  <a href="https://github.com/haodehaode378/cat-meme-generator/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+</p>
 
 ---
 
@@ -176,3 +180,4 @@
 
 > *"世人真正歌颂的，从来不是水到渠成的圆满，*
 > *而是明知前路未卜，却依旧选择孤勇前行的执着。"*
+
